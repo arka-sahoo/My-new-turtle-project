@@ -1,1 +1,1 @@
-This is a python project which I created using the turtle package.
+A python project using turtle package
